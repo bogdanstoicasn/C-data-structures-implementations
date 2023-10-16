@@ -10,7 +10,7 @@ This repo contains some data structures implemented in C programming language.
 
 Make sure you have the following prerequisites:
 
-> **Linux/Unix Environment**: dependency on unistd.h.
+> **Linux/Unix Environment/Windows**
 
 > **GCC Compiler**: You need the GCC compiler. You can install
 it on Debian/Ubuntu with the following command:
