@@ -21,7 +21,7 @@ it on Debian/Ubuntu with the following command:
 
 Clone repository, navigate in each folder, open the terminal and write:
 
-  gcc NAME_OF_FILE.c -o NAME.out
+  	gcc NAME_OF_FILE.c -o NAME.out
 
 
 ## Acknowledgments
